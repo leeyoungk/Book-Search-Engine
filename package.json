@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.4.17",
-    "graphql": "^16.0.1"
+    "graphql": "^16.0.1",
+    "mongoose": "^6.0.12"
   }
 }
